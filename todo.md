@@ -1,0 +1,6 @@
+- [ ] Make different ref urls to signals, properties, functions to avoid conflicts
+- [ ] Fix showing value of enum members
+- [ ] Show types and default values for properties
+- [ ] Add more options such as 'implements'
+- [ ] Fix cross references !!!!
+- [ ] Support options for gi annotations
